@@ -19,8 +19,8 @@
 
 ## 💻 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/unsolvedparadox-205b84193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unsolvedparadox-205b84193" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajay_mali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unsolvedparadox" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//lalit-ingale-20029717b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unsolvedparadox-205b84193" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/JQ2xHYwr7T/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unsolvedparadox" height="30" width="40" /></a>
 </p>
 
 ### 💪 Skills & Technologies
