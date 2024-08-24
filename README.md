@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unsolvedparadox&label=Profile%20views&color=0e75b6&style=flat" alt="unsolvedparadox" /> </p>
 
 # 💫 About Me :
-- 🔭 I’m currently working on **Integrated Vehicle Tracking System**
+- 🔭 I’m currently working on **ATOMS-E-Commerce Web Application**
 
 - 🌱 I’m currently learning **Spring Boot, Microservices**
 
